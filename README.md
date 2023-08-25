@@ -1,6 +1,6 @@
 # Welcome to Ken MacKeen's Gitpage
 
-## Decdntragram
+## Decentragram
 
 You can see my [Decentragram project](https://github.com/KenMacKeen/decentragram) to explore decentralized content hashing application.
 
